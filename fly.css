@@ -1,0 +1,111 @@
+
+        
+        *{
+    padding:0px ;
+    margin:0px;
+ }
+ body {
+            text-align: center; 
+            background-image: url(cat\ img.jpg) ;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+h1{
+    color:#fdfdfd;
+}
+.nav{
+    height: 80px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+        .nav ul{
+            display: flex;
+            list-style-type: none;
+            gap: 15px;
+            /* justify-content: end; */
+            /* margin-left: 80px; */
+        
+        }
+        .nav li{ 
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-decoration: none;
+
+        }
+        nav a {
+            text-decoration: none; 
+            color: #fff;
+
+li {
+    border: 1px solid black; color: #fff
+ }
+        }
+.nav button{
+border-radius: 500px;
+border-color: white;
+background-color: transparent;
+color: transparent;
+border-style: groove;
+width: 100px;
+
+
+
+        }
+.banner{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color: rgb(255, 255, 255);
+    height: 700px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text{
+    height: 400px;
+    width: 400px;
+
+}
+        
+.formy{
+    margin:400px;
+    padding-bottom:800px;
+    display: contents;}
+    .formm{
+    background-color: aliceblue;
+    margin: 350px;
+    margin-left: 90px;
+    width: 50px;
+    margin-bottom: 700%;
+    }
+    .register{
+        background: rgb(64, 64, 190);
+        margin: 10px;
+        margin-left: 10px;
+        padding: 5px;
+        padding-left: 100px;
+        margin-right: 70px;
+        width: 195px;
+    }
+    .sex{
+        width: 195px;
+    }
+    
+    form{
+        background-color: white;
+        width: 300px;
+        height: 400px;
+        margin-left: 10%;
+        padding-left: 20px;
+        align-items:center;
+        margin-top: 50px;
+        /* padding-: 70px; */
+        padding-top: 40px;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         margin-bottom: 160px;
+    }
+    form h2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+        
